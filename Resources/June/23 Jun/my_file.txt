@@ -1,0 +1,4 @@
+Name:Katie
+Age:29
+Degree:Masters in AI
+University:NYU

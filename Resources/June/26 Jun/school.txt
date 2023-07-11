@@ -1,0 +1,7 @@
+code,school,grade,name,age,height,weight,attendance%
+001,SHGHS,5,Swastik,11,173,45,95
+002,SJCC,5,Fabi,11,154,55,99
+003,BCGH,6,Roop,12,187,75,80
+001,SHGHS,6,Nikhil,12,191,80,92
+003,BCGH,7,Pooja,13,171,65,93
+004,BBHS,7,Deepal,13,176,70,89
